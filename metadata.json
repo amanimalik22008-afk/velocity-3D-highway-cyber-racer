@@ -1,0 +1,6 @@
+{
+  "name": "Velocity 3D: Highway Racer",
+  "description": "A premium 3D endless highway car racing game featuring high-speed sports cars, dynamic traffic, power-ups, multiple game modes, and custom garage unlocks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
